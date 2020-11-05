@@ -1,0 +1,31 @@
+body{
+  background-color: gray;
+}
+
+h1{
+  color: white;
+  font-size: 100px;
+}
+p{
+  font-size: larger;
+  font-weight: bold;
+}
+/*img{
+  background-color: red;
+}*/
+img:hover{
+
+  background-color: gold;
+}
+/*******For class selector we have to use dot ***********/
+.bacon{
+  background-color: green;
+}
+.broccoli{
+  background-color: red;
+}
+/*******For ID selector we have to use # ***********/
+/*
+#Heading{
+color: blue;
+}*/
